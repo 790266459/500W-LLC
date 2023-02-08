@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=JCCS- Pin=P7-23
+Change Net Name : Old Net Name=JCCS- New Net Name=GND2
+Change Net Name : Old Net Name=QDBS New Net Name=GND
+Added Pin To Net: NetName=JCCS- Pin=P7-23
+Added Net: Name=JCCS-
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
